@@ -3,7 +3,7 @@ body {
   font-family: 'Scheherazade New', serif;
   margin: 2em;
   max-width: 700px;
-  background-image: url('../images/backgd_2.png');
+  background-image: url('https://github.com/MengshiChen/109_proj2_pre2_codexploring/blob/main/images/backgd_2.png');
 }
 a {
   color: #F2E307;
