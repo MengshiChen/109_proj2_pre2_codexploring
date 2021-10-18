@@ -2,10 +2,10 @@ let capture;
 let canvas;
 
 function setup() {
-  canvas=createCanvas(700, 400);
+  canvas=createCanvas(300, 300);
   canvas.parent('myCamera');
   capture = createCapture(VIDEO);
-  capture.size(700, 400);
+  capture.size(300, 300);
   capture.hide();
 }
 

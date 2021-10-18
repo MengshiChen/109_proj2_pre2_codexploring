@@ -28,11 +28,23 @@ h4 {
 p{
   color: #F288D6;
 }
+.project2{
+  width: 500px;
+  height: auto;
+
+}
 .dragdrop{
   margin-bottom: 50px;
 }
-
-.access{
-  margin-top: 20px;
+#myContainer{
+  position: absolute;
   margin-bottom: 50px;
 }
+.access{
+  margin-top:50%;
+  margin-bottom: 50px;
+}
+/* #myCamera{
+  margin-top: 50px;
+  position: absolute;
+} */
